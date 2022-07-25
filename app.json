@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "firstchat",
+    "slug": "firstchat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "firstchat"
+}
